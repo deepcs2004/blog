@@ -11,9 +11,9 @@ function BlogCard({ blogs }) {
     return (
         <div className='grid md:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-8'>
             {
-                filteredBlogs.map((blog) =>
-                    <Link key={blog.id} >
-                        <div>
+                filteredBlogs.map((blog,currentPage,selectedCategory,pagesize) =>
+                    <Link key={blog.id} className ='p-5 shadow-lg rounded cursor-pointer'>
+                        <div >
                             <img src={blog.image} alt="image" className='w-full' />
                         </div>
 
