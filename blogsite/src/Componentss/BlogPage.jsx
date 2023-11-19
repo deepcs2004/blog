@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react'
 // import blogData from '../../api/blogData.json'
 import BlogCard from './BlogCard';
+import Pagination from './Pagination';
 function BlogPage() {
 
     const [blogs, setBlogs] = useState([]);
@@ -56,7 +57,9 @@ function BlogPage() {
 
 
             {/* pagination */}
-            <div>pagination</div>
+            <div>
+                <Pagination onPageChnage={handlePageChange} currentPage={currentPage} blogs={blogs} pagesize={pagesize}  />
+            </div>
 
 
         </div>
