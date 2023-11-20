@@ -9,9 +9,8 @@ import Blog from './pages/Blog.jsx'
 import Contact from './pages/Contact.jsx'
 import Services from './pages/Services.jsx'
 import Singleblog from './pages/Singleblog.jsx'
-
-import blogData from '../api/blogData.json'
-
+import PrivacyPolicy from './pages/PrivacyPolicy.jsx'
+import TermsCondition from './pages/TermsCondition.jsx'
 
 
 const router = createBrowserRouter(
@@ -24,6 +23,8 @@ const router = createBrowserRouter(
 
       <Route path='contact' element={<Contact />} />
       <Route path='services' element={<Services />} />
+      <Route path='Privacy-Policy' element={<PrivacyPolicy />} />
+      <Route path='Terms&Condition' element={<TermsCondition />} />
       <Route
         path='blog/:id'
         element={<Singleblog />}

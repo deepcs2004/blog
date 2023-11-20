@@ -25,7 +25,7 @@ const Singleblog = () => {
             </div>
 
             {/* blog details */}
-            <div className='max-w-7xl mx-auto my-12'>
+            <div className='max-w-7xl mx-auto my-12 flex flex-col md:flex-row gap-12'>
                 <div className='lg:w-3/4 mx-auto'>
                     <div>
                         <img src={elementWithId.image} alt="img" className='w-full mx-auto rounded' />
@@ -48,7 +48,7 @@ const Singleblog = () => {
                     
                 </div>
 
-                <div>
+                <div className='lg:w-1/2'>
                     <SideBar/>
                 </div>
             </div>

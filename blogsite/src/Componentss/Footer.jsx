@@ -92,24 +92,17 @@ function Footer() {
 
                         {/* category 4 */}
                         <div>
-                            <p className='font-medium tracking-wide text-gray-300'>Buisness</p>
+                            <p className='font-medium tracking-wide text-gray-300'>More Info</p>
                             <ul className='mt-2 space-y-2'>
                                 <li>
-                                    <a href="/" className='text-gray-500 transition-colors duration-300 hover:text-orange-500'>Info</a>
+                                    <a href="/Privacy-Policy" className='text-red-600 transition-colors duration-300 hover:text-green-500'>Privacy Policy</a>
                                 </li>
 
                                 <li>
-                                    <a href="/" className='text-gray-500 transition-colors duration-300 hover:text-orange-500'>Personal</a>
+                                    <a href="/Terms&Condition" className='text-red-600 transition-colors duration-300 hover:text-green-500'>Terms & Condition</a>
                                 </li>
 
-                                <li>
-                                    <a href="/" className='text-gray-500 transition-colors duration-300 hover:text-orange-500'>Wiki</a>
-                                </li>
-
-                                <li>
-                                    <a href="/" className='text-gray-500 transition-colors duration-300 hover:text-orange-500'>Forum</a>
-                                </li>
-
+                                
 
                             </ul>
 
@@ -136,7 +129,7 @@ function Footer() {
                             </button>
 
                         </form>
-                        <p className='mt-4  text-sm text-gray-500'>lwefjwf rwherwjer wehrwe rwerwrwj we rwerhwier wer werhwkrw rwreihrhwier wrwehrkw erwehruwheir 34iri4b 34iu3hgi34 34iuhg34ng </p>
+                        <p className='mt-4  text-sm text-gray-500'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum beatae, corrupti velit rerum quam eligendi labore aliquam distinctio illum nulla? Voluptatibus voluptate assumenda voluptas harum sapiente consequatur! Provident, alias? Assumenda.</p>
 
                     </div>
                 </div>
