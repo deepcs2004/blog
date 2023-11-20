@@ -1,4 +1,5 @@
 import React from 'react'
+import { FaTwitter,FaInstagram,FaFacebook } from "react-icons/fa6"
 
 function Footer() {
     return (
@@ -142,12 +143,18 @@ function Footer() {
 
 
 
-                <div >
-                    <p>
-                        Copyright 2023 | All right reserved.
+                <div className='flex flex-col justify-between pt-5 pb-10 border-t border-gray-300 sm:flex-row' >
+                    <p className='text-sm text-gray-500'>
+                    ©Copyright 2023 | All right reserved.
                     </p>
-                    <div>
-                        <a href=""></a>
+                    <div className='flex items-center mt-4 space-x-4 sm:mt-8'>
+                        <a href="" className='text-gray-500 transition-all duration-300 hover:text-orange-500'><FaTwitter className='h-6 w-6' /></a>
+
+                        <a href="" className='text-gray-500 transition-all duration-300 hover:text-orange-500'><FaInstagram className='h-6 w-6' /></a>
+
+                        <a href="" className='text-gray-500 transition-all duration-300 hover:text-orange-500'><FaFacebook className='h-6 w-6' /></a>
+
+                        
                     </div>
                 </div>
 
