@@ -11,20 +11,24 @@ function About() {
       </div>
 
       <div className="container mx-auto my-8 p-8 bg-white shadow-md rounded-md max-w-2xl">
-      <h1 className="text-4xl font-bold mb-4 text-gray-800">About MoneyView.Cloud</h1>
-      <p className="text-gray-700 mb-6">
-        Welcome to MoneyView.Cloud, your go-to platform for insightful and engaging content spanning a wide range of topics, including technology, artificial intelligence, apps, startups, business, and cybersecurity.
-      </p>
-      <p className="text-gray-700 mb-6">
-        At MoneyView.Cloud, we believe in the power of knowledge and aim to empower our readers with the latest information and trends. Our team of experts is committed to delivering high-quality, well-researched articles to keep you informed and inspired.
-      </p>
-      <p className="text-gray-700 mb-6">
-        Whether you're a tech enthusiast, a startup enthusiast, or someone keen on staying updated with the latest business and cybersecurity developments, you'll find valuable insights and resources here.
-      </p>
-      <p className="text-gray-700 mb-6">
-        Explore our diverse categories, read thought-provoking articles, and join us on this journey of discovery and innovation. Thank you for being a part of the MoneyView.Cloud community!
-      </p>
-    </div>
+        <h1 className="text-4xl font-bold mb-4 text-gray-800">About MoneyView.Cloud</h1>
+        <p className="text-gray-700 mb-6">
+          Greetings from MoneyView.Cloud is your go-to source for intelligent and interesting content on a variety of subjects, such as business, startups, cybersecurity, artificial intelligence, and technology.
+
+        </p>
+        <p className="text-gray-700 mb-6">
+          At MoneyView.Cloud, we aspire to provide our readers with up-to-date information and trends because we believe in the power of knowledge. Our team of professionals is dedicated to providing well-written, thoroughly researched articles to keep you up to date and motivated.
+
+        </p>
+        <p className="text-gray-700 mb-6">
+          You'll find helpful insights and resources here whether you're a tech enthusiast, startup enthusiast, or someone who is interested in keeping up with the most recent developments in business and cybersecurity.
+
+        </p>
+        <p className="text-gray-700 mb-6">
+          Browse our many categories, peruse articles that will make you think, and come along on this innovative and exploratory journey with us. We appreciate your participation in the MoneyView.Cloud community!
+
+        </p>
+      </div>
 
 
     </div>
