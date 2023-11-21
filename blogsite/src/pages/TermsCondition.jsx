@@ -14,41 +14,48 @@ function TermsCondition() {
                 <h1 className="text-4xl font-bold mb-4 text-gray-800">Terms and Conditions</h1>
 
                 <p className="text-gray-700 mb-6">
-                    By accessing and using the MoneyView.Cloud website, you agree to comply with and be bound by the following terms and conditions. If you do not agree to these terms, please do not use this website.
+                    You accept and agree to be bound by the following terms and conditions by accessing and using the MoneyView.Cloud website. Please do not use this website if you do not agree to these terms.
                 </p>
 
                 <h2 className="text-2xl font-semibold text-blue-500 mb-2">1. Use of the Website</h2>
                 <p className="text-gray-700 mb-6">
-                    The content of this website is for informational purposes only. MoneyView.Cloud reserves the right to modify or discontinue any aspect of the site at any time.
+                    This website's content is intended solely for informational purposes. MoneyView.Cloud maintains the right to change or stop offering any part of the website at any moment.
+
                 </p>
 
                 <h2 className="text-2xl font-semibold text-blue-500 mb-2">2. User Accounts</h2>
                 <p className="text-gray-700 mb-6">
-                    To access certain features of the website, you may be required to create a user account. You are responsible for maintaining the confidentiality of your account information and for all activities that occur under your account.
+                    It might be necessary for you to register for an account in order to use some of the website's features. All activities that take place under your account and the confidentiality of the information associated with it are your responsibility.
+
                 </p>
 
                 <h2 className="text-2xl font-semibold text-blue-500 mb-2">3. Intellectual Property</h2>
                 <p className="text-gray-700 mb-6">
-                    All content on this website, including text, graphics, logos, and images, is the property of MoneyView.Cloud and is protected by copyright laws. Unauthorized use of the content may violate copyright, trademark, and other laws.
+                    Copyright laws safeguard all content on this website, including text, graphics, logos, and images, which belong to MoneyView.Cloud. Unauthorized use of the content could be illegal under trademark, copyright, and other laws.
+
                 </p>
 
                 <h2 className="text-2xl font-semibold text-blue-500 mb-2">4. Disclaimer of Warranties</h2>
                 <p className="text-gray-700 mb-6">
-                    The information provided on this website is on an "as-is" basis. MoneyView.Cloud makes no warranties, expressed or implied, regarding the accuracy, completeness, or reliability of the content.
+                    The data presented on this webpage is offered "as is." MoneyView.Cloud disclaims all express and implied warranties with regard to the content's correctness, reliability, and completeness.
+
                 </p>
 
                 <h2 className="text-2xl font-semibold text-blue-500 mb-2">5. Limitation of Liability</h2>
                 <p className="text-gray-700 mb-6">
-                    MoneyView.Cloud shall not be liable for any direct, indirect, incidental, consequential, or special damages arising out of or in any way connected with the use of this website.
+                    MoneyView.Cloud disclaims all liability for any kind of damages—direct, indirect, incidental, consequential, or special—that result from using this website or are related to it in any way.
+
                 </p>
 
                 <h2 className="text-2xl font-semibold text-blue-500 mb-2">6. Governing Law</h2>
                 <p className="text-gray-700 mb-6">
-                    These terms and conditions are governed by and construed in accordance with the laws of [Your Jurisdiction]. Any disputes arising under or in connection with these terms shall be subject to the exclusive jurisdiction of the courts in [Your Jurisdiction].
+                    The laws of [Your Jurisdiction] shall apply to the interpretation and enforcement of these terms and conditions. The courts in [Your Jurisdiction] shall have exclusive jurisdiction over any disputes arising under or in relation to these terms.
+
                 </p>
 
                 <p className="text-gray-700">
-                    If you have any questions or concerns about these terms and conditions, please contact us at legal@moneyview.cloud.
+                    Email us at legal@moneyview.cloud if you have any questions or concerns regarding these terms and conditions.
+
                 </p>
             </div>
 
