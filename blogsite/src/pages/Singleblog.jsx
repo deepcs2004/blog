@@ -42,29 +42,27 @@ const Singleblog = () => {
 
 
                     <p className='text-base text-gray-500 mb-6'>
-                        {elementWithId.content}
+                        {elementWithId.content1}
                     </p>
 
                     <p className='text-base text-gray-500 mb-6'>
-                        {elementWithId.content}
+                        {elementWithId.content2}
                     </p>
 
                     <p className='text-base text-gray-500 mb-6'>
-                        {elementWithId.content}
+                        {elementWithId.content3}
                     </p>
 
                     <p className='text-base text-gray-500 mb-6'>
-                        {elementWithId.content}
+                        {elementWithId.content4}
                     </p>
 
                     <p className='text-base text-gray-500 mb-6'>
-                        {elementWithId.content}
+                        {elementWithId.content5}
                     </p>
 
-                    <p className='text-base text-gray-500 mb-6'>
-                        {elementWithId.content}
-                    </p>
                     
+
 
                     
                 </div>
