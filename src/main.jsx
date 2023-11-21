@@ -28,7 +28,7 @@ const router = createBrowserRouter(
       <Route
         path='blog/:id'
         element={<Singleblog />}
-        loader={({ params }) => fetch(`https://raw.githubusercontent.com/deepcs2004/blog/main/blogsite/api/blogData.json`)
+        loader={({ params }) => fetch(`https://raw.githubusercontent.com/deepcs2004/blog/main/api/blogData.json`)
 
         }
       />

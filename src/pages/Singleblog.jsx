@@ -1,7 +1,7 @@
 import React from 'react'
 import { useLoaderData, useParams } from 'react-router-dom'
 import { FaUser ,FaClock} from "react-icons/fa6"
-import SideBar from '../componentss/Sidebar';
+import SideBar from '../Componentss/SideBar'
 
 
 
