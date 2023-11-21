@@ -15,7 +15,7 @@ function BlogPage() {
     useEffect(() => {
 
         async function fetchBlogs() {
-            let url = `https://raw.githubusercontent.com/deepcs2004/blog/main/blogsite/api/blogData.json?page=${currentPage}&limit=${pagesize}`;
+            let url = `https://raw.githubusercontent.com/deepcs2004/blog/main/api/blogData.json?page=${currentPage}&limit=${pagesize}`;
 
             // filter by category 
             if (selectedCategory) {
