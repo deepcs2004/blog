@@ -8,20 +8,15 @@
         "authorPic": "author1.jpg",
         "published_date": "October 4, 2023",
         "reading_time": "8 minutes",
-
-
         "content1": "In the ever-evolving landscape of healthcare technology, wearables have taken center stage, offering unprecedented opportunities for patient monitoring and care. At the forefront of this revolution is Professor Esther Rodriguez-Villegas, the driving force behind Acurable. With a vision to make wearable medical devices more patient-friendly, Acurable has been instrumental in reshaping the industry.",
-
         "content2": "Acurable's commitment to patient-centric design is evident in the meticulous development of wearable devices. Professor Rodriguez-Villegas understands that for these technologies to make a real impact, they must seamlessly integrate into patients' lives. The result is a suite of devices that prioritize comfort, ease of use, and non-intrusiveness, ensuring patients can effortlessly incorporate them into their daily routines.",
-
         "content3": "One of Acurable's standout achievements lies in the realm of respiratory health. Leveraging advanced sensing technologies, Acurable's devices provide accurate monitoring and diagnosis of respiratory conditions. This not only empowers patients with valuable insights into their health but also establishes a new standard for user-friendly medical technology.",
-
         "content4": "The impact of Acurable's innovations extends beyond physical design. By enhancing user interfaces and data presentation, Professor Rodriguez-Villegas ensures that patients actively engage in their healthcare journey. This collaborative approach fosters a stronger connection between patients and healthcare professionals, leading to more precise diagnoses and personalized interventions.",
-
         "content5": "Looking forward, the work of Professor Esther Rodriguez-Villegas and Acurable holds the promise of a future where wearable medical devices are seamlessly integrated into everyday life, empowering individuals to take control of their health. As technology continues to advance, their pioneering efforts stand as a testament to the transformative potential of patient-friendly innovation in healthcare.",
-
-
-        "tags": ["Biotech", "Health"]
+        "tags": [
+            "Biotech",
+            "Health"
+        ]
     },
     {
         "id": 4,
@@ -32,20 +27,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "5 minutes",
-        
-
-        "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Fintech", "Writing"]
+        "content1": "In a significant leap forward for the intersection of technology and finance, Rainforest, a trailblazing company, has successfully raised $8.5 million in funding. This financial boost is poised to propel Rainforest's mission to assist software companies in seamlessly embedding financial services and payments into their platforms. The funding round, led by notable investors, underscores the growing recognition of Rainforest's potential to reshape the landscape of financial technology integration.",
+        "content2": "Rainforest's innovative approach addresses a crucial need in the software industry, where incorporating robust financial services has often been a complex and resource-intensive endeavor. With the infusion of $8.5 million, Rainforest is well-positioned to accelerate the development of solutions that streamline the integration process, enabling software companies to focus on their core offerings while effortlessly incorporating cutting-edge financial services.",
+        "content3": "The significance of Rainforest's vision lies in its potential to democratize access to sophisticated financial tools. By providing a user-friendly framework for embedding payments and financial services, Rainforest empowers a diverse range of software companies, from startups to established players, to enhance their offerings without the traditional barriers of time and expertise.",
+        "content4": "The successful funding round is a testament to the confidence investors place in Rainforest's leadership and the potential impact of their work. The company's commitment to simplifying complex financial integrations aligns with broader trends in the fintech industry, where accessibility and user experience are paramount.",
+        "content5": "As Rainforest advances with its newfound financial backing, the tech community eagerly anticipates the ripple effects on software companies seeking to enhance their platforms with robust financial services. The $8.5 million injection not only propels Rainforest toward realizing its vision but also marks a pivotal moment in the evolution of fintech integration, underscoring the industry's recognition of the transformative potential that lies at the intersection of software and financial services.",
+        "tags": [
+            "Fintech",
+            "Writing"
+        ]
     },
     {
         "id": 5,
@@ -56,20 +46,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "5 minutes",
-        
-
-        "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "content1": "In the ever-evolving landscape of biomanufacturing, Pow.bio has emerged as a disruptor, boldly stating that the current state of biomanufacturing is broken – and they have the solution. With their innovative continuous fermentation technology, Pow.bio aims to reshape the biotech industry by addressing the inefficiencies and limitations of traditional biomanufacturing processes.",
+        "content2": "The core premise behind Pow.bio's approach is a reevaluation of the conventional batch-based manufacturing systems. According to Pow.bio, these systems suffer from inherent drawbacks, including inconsistent product quality, prolonged production timelines, and significant resource waste. The company believes that their continuous fermentation technology holds the key to overcoming these challenges, ushering in a new era of efficiency and precision in biomanufacturing.",
+        "content3": "Continuous fermentation, as championed by Pow.bio, involves a seamless, uninterrupted process that contrasts with the start-stop nature of batch processing. This approach not only streamlines production but also enhances the scalability and reproducibility of biomanufacturing processes. The potential impact of continuous fermentation on the biotech industry is profound, promising higher yields, reduced production costs, and faster time-to-market for bioengineered products.",
+        "content4": "Pow.bio's bold assertion that biomanufacturing is broken echoes the sentiments of a growing number of innovators in the biotech space. The infusion of resources and attention into continuous fermentation technology underscores the industry's recognition of the need for transformative solutions. Pow.bio's commitment to fixing the broken aspects of biomanufacturing positions them as a key player in driving the evolution of biotech processes.",
+        "content5": "As Pow.bio charts its course to revolutionize biomanufacturing, the broader biotech community eagerly watches the developments. The potential for continuous fermentation technology to redefine industry standards is significant, and Pow.bio's efforts to address the perceived shortcomings in current biomanufacturing practices mark a pivotal moment in the ongoing quest for efficiency and innovation in the biotech sector.",
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 6,
@@ -80,20 +65,16 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "5 minutes",
-        
+        "content1": "In a major financial milestone, Clearco, the innovative e-commerce financier, has successfully completed a $60 million Series D funding round. The recapitalization and injection of substantial funds underscore the confidence investors place in Clearco's unique approach to financing e-commerce businesses. This significant funding is set to propel Clearco into a new phase of growth, amplifying its mission to empower entrepreneurs and fueling the expansion of its financial solutions for the e-commerce ecosystem.",
+        "content2": "Clearco's disruptive model, often referred to as the alternative to traditional venture capital, has garnered attention for its data-driven approach to funding e-commerce ventures. By leveraging technology and analytics, Clearco offers financing without the need for equity or personal guarantees, providing e-commerce entrepreneurs with a flexible and scalable funding solution.",
+        "content3": "The $60 million Series D funding is a testament to the success of Clearco's approach and its impact on the e-commerce landscape. With a focus on data-driven decision-making, Clearco has facilitated the growth of numerous online businesses, making it an attractive partner for both emerging startups and established e-commerce players looking to scale their operations.",
+        "content4": "The additional capital not only reinforces Clearco's financial stability but also positions the company to expand its suite of services. As e-commerce continues to evolve, Clearco is poised to play a pivotal role in shaping the financial landscape for online businesses, offering a viable and innovative alternative to traditional funding models.",
+        "content5": "The successful Series D funding round is a strategic move that aligns with Clearco's vision to democratize access to capital for entrepreneurs globally. As the e-commerce industry thrives, Clearco's growth is indicative of a broader shift toward more dynamic and data-centric financial solutions, marking a crucial moment in the evolution of how businesses secure funding in the digital age.",
 
-        "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Blogging", "Writing"]
+        "tags": [
+            "Blogging",
+            "Writing"
+        ]
     },
     {
         "id": 7,
@@ -104,20 +85,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "5 minutes",
-       
-
-        "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["AI", "Writing"]
+        "content1": "In a groundbreaking move at the intersection of artificial intelligence and software development, Rabbit is on a mission to create an AI model that comprehends the intricacies of how software works. This ambitious endeavor represents a significant step towards bridging the gap between human understanding and machine intelligence in the realm of software development.",
+        "content2": "Rabbit's vision is to equip their AI model with the capability to decipher the language of software, an inherently complex and dynamic domain. By harnessing advanced machine learning techniques, Rabbit aims to empower developers with a tool that not only understands code but can also provide insights, recommendations, and potentially streamline the software development process.",
+        "content3": "The unique challenge Rabbit is tackling lies in the nuanced understanding required to interpret and navigate the intricate world of programming languages and software architecture. If successful, Rabbit's AI model could become an invaluable resource for developers, reducing the learning curve for newcomers, enhancing collaboration, and potentially uncovering novel solutions to coding challenges.",
+        "content4": "The significance of Rabbit's initiative extends beyond the realm of individual developers. As the software landscape continues to evolve rapidly, an AI model capable of understanding software could contribute to more efficient debugging, faster development cycles, and even aid in the creation of more resilient and adaptable software systems.",
+        "content5": "In the grand scheme of technological advancement, Rabbit's venture into building an AI model that comprehends software marks a pivotal moment. The success of this endeavor could redefine how developers interact with code, opening doors to new possibilities and shaping the future of software development in ways we have yet to imagine.",
+        "tags": [
+            "AI",
+            "Writing"
+        ]
     },
     {
         "id": 8,
@@ -128,20 +104,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "5 minutes",
-        
-
-        "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Security", "Writing"]
+        "content1": "In a strategic move that underscores its commitment to innovation, Okta, a leading identity platform provider, has unveiled plans to integrate artificial intelligence (AI) across its entire suite of services. This ambitious initiative aims to leverage multiple AI models, marking a significant step towards enhancing the functionality and security of Okta's identity platform.",
+        "content2": "Okta's decision to weave AI into its identity platform recognizes the evolving landscape of cybersecurity and the need for adaptive, intelligent solutions. By deploying a variety of AI models, Okta intends to bolster its platform's capabilities, from authentication and access management to threat detection and response. This multifaceted approach signifies a nuanced understanding of the diverse challenges faced by organizations in safeguarding their digital identities.",
+        "content3": "The incorporation of AI is expected to elevate Okta's identity platform by introducing dynamic risk assessment, anomaly detection, and personalized user experiences. Machine learning algorithms will play a pivotal role in adapting to evolving security threats and user behaviors, offering a proactive defense mechanism against cyber threats.",
+        "content4": "Okta's commitment to AI integration reflects a broader industry trend, acknowledging that traditional identity and access management systems must evolve to address the sophisticated nature of modern cyber threats. The move aligns with Okta's dedication to staying at the forefront of identity solutions, ensuring its platform remains resilient and responsive to the rapidly changing cybersecurity landscape.",
+        "content5": "As Okta pioneers the integration of AI across its identity platform, organizations leveraging Okta's services stand to benefit from enhanced security, improved user experiences, and a future-ready approach to identity management. The strategic decision to use multiple AI models showcases Okta's nuanced understanding of the multifaceted challenges in cybersecurity, reinforcing its position as a leader in the identity and access management space.",
+        "tags": [
+            "Security",
+            "Writing"
+        ]
     },
     {
         "id": 9,
@@ -152,20 +123,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "5 minutes",
-        
-
-        "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
+        "content1": "In a move aimed at enhancing the efficiency and security of its enterprise offerings, Yubico has introduced the capability to ship pre-registered security keys to its users. This strategic innovation simplifies the onboarding process for enterprise clients, allowing Yubico to deliver ready-to-use security keys directly to users' doorsteps. By eliminating the need for users to register their keys manually, Yubico is addressing a key pain point in the deployment of secure authentication solutions.",
+        "content2": "This new feature streamlines the user experience, particularly for organizations implementing large-scale deployments of security keys. The pre-registration process not only reduces the complexity of key setup but also enhances security by minimizing the potential for user error during the registration phase. Yubico's commitment to user-friendly security solutions is evident in this development, aligning with industry trends prioritizing both robust protection and a seamless user experience.",
+        "content3": "The shift towards shipping pre-registered keys is particularly advantageous for enterprises managing distributed teams or those with remote workforces. Yubico's innovation ensures that security measures remain robust, even in scenarios where users may not be physically present in a centralized location. As remote work becomes increasingly prevalent, this move positions Yubico as a strategic ally for organizations navigating the evolving landscape of secure authentication.",
+        "content4": "By offering pre-registered security keys, Yubico is not only addressing practical concerns in the deployment process but also signaling a commitment to advancing the accessibility and ease of use of secure authentication solutions. As cybersecurity remains a top priority for enterprises, Yubico's initiative is poised to make a significant impact on the efficiency and effectiveness of security key implementations across diverse organizational landscapes.",
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Blogging", "Writing"]
+        "tags": [
+            "Blogging",
+            "Writing"
+        ]
     },
     {
         "id": 10,
@@ -176,20 +142,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "8 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 11,
@@ -200,20 +161,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "5 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Growth", "Writing"]
+        "tags": [
+            "Growth",
+            "Writing"
+        ]
     },
     {
         "id": 12,
@@ -224,20 +180,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "5 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["AI", "Writing"]
+        "tags": [
+            "AI",
+            "Writing"
+        ]
     },
     {
         "id": 13,
@@ -248,20 +199,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "5 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Apps", "Writing"]
+        "tags": [
+            "Apps",
+            "Writing"
+        ]
     },
     {
         "id": 14,
@@ -272,20 +218,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Apps", "Writing"]
+        "tags": [
+            "Apps",
+            "Writing"
+        ]
     },
     {
         "id": 15,
@@ -296,20 +237,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Apps", "Writing"]
+        "tags": [
+            "Apps",
+            "Writing"
+        ]
     },
     {
         "id": 16,
@@ -320,20 +256,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Apps", "Writing"]
+        "tags": [
+            "Apps",
+            "Writing"
+        ]
     },
     {
         "id": 17,
@@ -344,20 +275,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Apps", "Writing"]
+        "tags": [
+            "Apps",
+            "Writing"
+        ]
     },
     {
         "id": 18,
@@ -368,20 +294,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Apps", "Writing"]
+        "tags": [
+            "Apps",
+            "Writing"
+        ]
     },
     {
         "id": 19,
@@ -392,20 +313,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Apps", "Writing"]
+        "tags": [
+            "Apps",
+            "Writing"
+        ]
     },
     {
         "id": 20,
@@ -416,20 +332,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 21,
@@ -440,20 +351,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 22,
@@ -464,20 +370,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 23,
@@ -488,20 +389,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 24,
@@ -512,20 +408,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-       
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 25,
@@ -536,20 +427,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 26,
@@ -560,20 +446,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 27,
@@ -584,20 +465,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 28,
@@ -608,20 +484,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 29,
@@ -632,20 +503,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 30,
@@ -656,20 +522,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 31,
@@ -680,20 +541,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 32,
@@ -704,20 +560,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 33,
@@ -728,20 +579,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 34,
@@ -752,20 +598,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 35,
@@ -776,20 +617,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 36,
@@ -800,20 +636,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 37,
@@ -824,20 +655,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 38,
@@ -848,20 +674,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 39,
@@ -872,20 +693,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 40,
@@ -896,20 +712,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 41,
@@ -920,20 +731,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 42,
@@ -944,20 +750,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 43,
@@ -968,20 +769,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 44,
@@ -992,20 +788,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 45,
@@ -1016,20 +807,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 45,
@@ -1040,20 +826,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 46,
@@ -1064,20 +845,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 47,
@@ -1088,20 +864,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 47,
@@ -1112,20 +883,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 47,
@@ -1136,20 +902,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 48,
@@ -1160,20 +921,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 49,
@@ -1184,20 +940,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 50,
@@ -1208,20 +959,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 51,
@@ -1232,20 +978,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 52,
@@ -1256,20 +997,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 53,
@@ -1280,20 +1016,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 54,
@@ -1304,20 +1035,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 55,
@@ -1328,20 +1054,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 56,
@@ -1352,20 +1073,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 57,
@@ -1376,20 +1092,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 58,
@@ -1400,20 +1111,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 59,
@@ -1424,20 +1130,15 @@
         "authorPic": "author1.jpg",
         "published_date": "October 4, 2023",
         "reading_time": "5 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Blogging", "Writing"]
+        "tags": [
+            "Blogging",
+            "Writing"
+        ]
     },
     {
         "id": 60,
@@ -1448,20 +1149,15 @@
         "authorPic": "author1.jpg",
         "published_date": "October 4, 2023",
         "reading_time": "4 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Work", "Blogging"]
+        "tags": [
+            "Work",
+            "Blogging"
+        ]
     },
     {
         "id": 61,
@@ -1472,20 +1168,15 @@
         "authorPic": "author1.jpg",
         "published_date": "October 4, 2023",
         "reading_time": "8 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Biotech", "Health"]
+        "tags": [
+            "Biotech",
+            "Health"
+        ]
     },
     {
         "id": 62,
@@ -1496,20 +1187,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "5 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Fintech", "Writing"]
+        "tags": [
+            "Fintech",
+            "Writing"
+        ]
     },
     {
         "id": 63,
@@ -1520,20 +1206,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "5 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 64,
@@ -1544,20 +1225,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "5 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Blogging", "Writing"]
+        "tags": [
+            "Blogging",
+            "Writing"
+        ]
     },
     {
         "id": 65,
@@ -1568,20 +1244,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "5 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["AI", "Writing"]
+        "tags": [
+            "AI",
+            "Writing"
+        ]
     },
     {
         "id": 66,
@@ -1592,20 +1263,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "5 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Security", "Writing"]
+        "tags": [
+            "Security",
+            "Writing"
+        ]
     },
     {
         "id": 67,
@@ -1616,20 +1282,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "5 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Blogging", "Writing"]
+        "tags": [
+            "Blogging",
+            "Writing"
+        ]
     },
     {
         "id": 68,
@@ -1640,20 +1301,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "8 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 69,
@@ -1664,20 +1320,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "5 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Growth", "Writing"]
+        "tags": [
+            "Growth",
+            "Writing"
+        ]
     },
     {
         "id": 70,
@@ -1688,20 +1339,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "5 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["AI", "Writing"]
+        "tags": [
+            "AI",
+            "Writing"
+        ]
     },
     {
         "id": 71,
@@ -1712,20 +1358,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "5 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Apps", "Writing"]
+        "tags": [
+            "Apps",
+            "Writing"
+        ]
     },
     {
         "id": 72,
@@ -1736,20 +1377,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Apps", "Writing"]
+        "tags": [
+            "Apps",
+            "Writing"
+        ]
     },
     {
         "id": 73,
@@ -1760,20 +1396,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Apps", "Writing"]
+        "tags": [
+            "Apps",
+            "Writing"
+        ]
     },
     {
         "id": 74,
@@ -1784,20 +1415,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Apps", "Writing"]
+        "tags": [
+            "Apps",
+            "Writing"
+        ]
     },
     {
         "id": 75,
@@ -1808,20 +1434,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Apps", "Writing"]
+        "tags": [
+            "Apps",
+            "Writing"
+        ]
     },
     {
         "id": 76,
@@ -1832,20 +1453,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Apps", "Writing"]
+        "tags": [
+            "Apps",
+            "Writing"
+        ]
     },
     {
         "id": 77,
@@ -1856,20 +1472,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-       
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Apps", "Writing"]
+        "tags": [
+            "Apps",
+            "Writing"
+        ]
     },
     {
         "id": 78,
@@ -1880,20 +1491,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 79,
@@ -1904,20 +1510,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 80,
@@ -1928,20 +1529,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 1,
@@ -1952,20 +1548,15 @@
         "authorPic": "author1.jpg",
         "published_date": "October 4, 2023",
         "reading_time": "5 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Blogging", "Writing"]
+        "tags": [
+            "Blogging",
+            "Writing"
+        ]
     },
     {
         "id": 2,
@@ -1976,20 +1567,15 @@
         "authorPic": "author1.jpg",
         "published_date": "October 4, 2023",
         "reading_time": "4 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Work", "Blogging"]
+        "tags": [
+            "Work",
+            "Blogging"
+        ]
     },
     {
         "id": 81,
@@ -2000,20 +1586,15 @@
         "authorPic": "author1.jpg",
         "published_date": "2023-10-01",
         "reading_time": "6 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Startups", "Writing"]
+        "tags": [
+            "Startups",
+            "Writing"
+        ]
     },
     {
         "id": 82,
@@ -2024,20 +1605,15 @@
         "authorPic": "author1.jpg",
         "published_date": "October 4, 2023",
         "reading_time": "5 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Blogging", "Writing"]
+        "tags": [
+            "Blogging",
+            "Writing"
+        ]
     },
     {
         "id": 83,
@@ -2048,20 +1624,14 @@
         "authorPic": "author1.jpg",
         "published_date": "October 4, 2023",
         "reading_time": "4 minutes",
-        
-
         "content1": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content2": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content3": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content4": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
         "content5": "Welcome back to Found, where we get the stories behind the startups. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
-
-        
-        "tags": ["Work", "Blogging"]
+        "tags": [
+            "Work",
+            "Blogging"
+        ]
     }
-    
 ]
