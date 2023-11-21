@@ -45,6 +45,27 @@ const Singleblog = () => {
                         {elementWithId.content}
                     </p>
 
+                    <p className='text-base text-gray-500 mb-6'>
+                        {elementWithId.content}
+                    </p>
+
+                    <p className='text-base text-gray-500 mb-6'>
+                        {elementWithId.content}
+                    </p>
+
+                    <p className='text-base text-gray-500 mb-6'>
+                        {elementWithId.content}
+                    </p>
+
+                    <p className='text-base text-gray-500 mb-6'>
+                        {elementWithId.content}
+                    </p>
+
+                    <p className='text-base text-gray-500 mb-6'>
+                        {elementWithId.content}
+                    </p>
+                    
+
                     
                 </div>
 
