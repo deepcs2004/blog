@@ -1,5 +1,8 @@
 import React from 'react'
-import { FaTwitter,FaInstagram,FaFacebook } from "react-icons/fa6"
+import { FaTwitter, FaInstagram, FaFacebook } from "react-icons/fa6"
+import { Link } from 'react-router-dom';
+
+
 
 function Footer() {
     return (
@@ -95,14 +98,18 @@ function Footer() {
                             <p className='font-medium tracking-wide text-gray-300'>More Info</p>
                             <ul className='mt-2 space-y-2'>
                                 <li>
-                                    <a href="/Privacy-Policy" className='text-red-600 transition-colors duration-300 hover:text-green-500'>Privacy Policy</a>
+
+                                    <Link to="/Privacy-Policy" className='text-red-600 transition-colors duration-300 hover:text-green-500'>
+                                        Privacy Policy
+                                    </Link>
+
                                 </li>
 
                                 <li>
-                                    <a href="/Terms&Condition" className='text-red-600 transition-colors duration-300 hover:text-green-500'>Terms & Condition</a>
+                                    <Link to="/Terms&Condition" className='text-red-600 transition-colors duration-300 hover:text-green-500'>Terms & Condition</Link>
                                 </li>
 
-                                
+
 
                             </ul>
 
@@ -138,7 +145,7 @@ function Footer() {
 
                 <div className='flex flex-col justify-between pt-5 pb-10 border-t border-gray-300 sm:flex-row' >
                     <p className='text-sm text-gray-500'>
-                    ©Copyright 2023 | All right reserved.
+                        ©Copyright 2023 | All right reserved.
                     </p>
                     <div className='flex items-center mt-4 space-x-4 sm:mt-8'>
                         <a href="" className='text-gray-500 transition-all duration-300 hover:text-orange-500'><FaTwitter className='h-6 w-6' /></a>
@@ -147,7 +154,7 @@ function Footer() {
 
                         <a href="" className='text-gray-500 transition-all duration-300 hover:text-orange-500'><FaFacebook className='h-6 w-6' /></a>
 
-                        
+
                     </div>
                 </div>
 
