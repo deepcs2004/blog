@@ -12,7 +12,7 @@ function Banner() {
                 <p className='text-gray-100 text-lg mb-5'>Read our Blogs today and join a community of intellectuals! </p>
 
                 <div>
-                    <Link to="/" className='font-medium hover:text-yellow-500 inline-flex items-center py-1'>Learn more <FaArrowRight className='mt-1 ml-2' /></Link>
+                    <Link to="/about" className='font-medium hover:text-yellow-500 inline-flex items-center py-1'>Learn more <FaArrowRight className='mt-1 ml-2' /></Link>
                 </div>
             </div>
         </div>
