@@ -1,0 +1,19 @@
+    {
+        "id": 3,
+        "title":"",
+        "image":"",
+        "category":"",
+        "author":"",
+        "authorPic":"",
+        "published_date":"",
+        "reading_time":"",
+        "content1":"",
+        "content2":"",
+        "content3":"",
+        "content4":"",
+        "content5":"",
+        "tags": [
+            "",
+            ""
+        ]
+    }
