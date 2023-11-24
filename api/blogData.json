@@ -28,21 +28,29 @@
             "Tech"
         ]
     },
-
     {
-        "id": 2,
-        "title": "",
-        "image": "",
-        "category": "Offer",
-        "author": "MoneyView",
-        "authorPic": "",
-        "published_date": "",
-        "reading_time": "",
-        "content1": "",
-        "content2": "",
-        "content3": "",
-        "content4": "",
-        "content5": "",
+        "id": 3,
+        "title":"The movie Napoleon, review:",
+        "image":"https://github.com/deepcs2004/my-image/blob/main/n5.jpg?raw=true",
+        "category":"",
+        "author":"MoneyView",
+        "authorPic":"",
+        "published_date":"",
+        "reading_time":"",
+        "content1":"",
+
+        "content2":"",
+
+        "image2":"",
+
+        "content3":"",
+
+        "videoSrc":"",
+
+        "content4":"",
+
+        "content5":"",
+        
         "tags": [
             "",
             ""
