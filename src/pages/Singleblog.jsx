@@ -68,7 +68,7 @@ const Singleblog = () => {
                         {elementWithId.content4}
                     </h3>
 
-                    
+                    <a href="https://amzn.to/46skOpe">Get the most cheapest Iphone here!</a>
 
                     <h3 className='text-xl font-bold text-gray-800 mb-6 '>
                         {elementWithId.content5}
