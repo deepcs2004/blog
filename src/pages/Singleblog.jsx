@@ -41,25 +41,29 @@ const Singleblog = () => {
                     <p className='mb-3 text-gray-600'><FaClock className='inline-flex items-center mr-2' />{elementWithId.reading_time}</p>
 
 
-                    <p className='text-base text-gray-500 mb-6'>
+                    <h3 className='text-base text-gray-500 mb-6'>
                         {elementWithId.content1}
-                    </p>
+                    </h3>
 
-                    <p className='text-base text-gray-500 mb-6'>
+                    <h3 className='text-base text-gray-500 mb-6'>
                         {elementWithId.content2}
-                    </p>
+                    </h3>
 
-                    <p className='text-base text-gray-500 mb-6'>
+                    <div>
+                        <img src={elementWithId.image2} alt="img" className='w-full mx-auto rounded' />
+                    </div>
+
+                    <h3 className='text-base text-gray-500 mb-6'>
                         {elementWithId.content3}
-                    </p>
+                    </h3>
 
-                    <p className='text-base text-gray-500 mb-6'>
+                    <h3 className='text-base text-gray-500 mb-6'>
                         {elementWithId.content4}
-                    </p>
+                    </h3>
 
-                    <p className='text-base text-gray-500 mb-6'>
+                    <h3 className='text-base text-gray-500 mb-6'>
                         {elementWithId.content5}
-                    </p>
+                    </h3>
 
                     
 

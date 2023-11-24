@@ -8,10 +8,17 @@
         "published_date":"",
         "reading_time":"",
         "content1":"",
+
         "content2":"",
+
+        "image2":"",
+
         "content3":"",
+
         "content4":"",
+
         "content5":"",
+        
         "tags": [
             "",
             ""
