@@ -1,17 +1,16 @@
 import React from 'react';
+import YouTube from 'react-youtube';
 
-const VideoPlayer = ({ videoUrl }) => {
-    return (
-        <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden' }}>
-            <iframe
-                title="YouTube Video"
-                style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%' }}
-                src={videoUrl}
-                frameBorder="0"
-                allowFullScreen
-            ></iframe>
-        </div>
-    );
+const VideoPlayer = ({ videoId }) => {
+  const opts = {
+    height: '315',
+    width: '560',
+    playerVars: {
+      autoplay: 0, // Set to 1 to autoplay the video
+    },
+  };
+
+  return <YouTube videoId={videoId} opts={opts} />;
 };
 
 export default VideoPlayer;

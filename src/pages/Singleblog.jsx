@@ -17,7 +17,7 @@ const Singleblog = () => {
     console.log(elementWithId);
     // console.log("this is blog id",blogID)
 
-    const videoUrl =elementWithId.videoId
+    
 
     return (
         <div>
@@ -59,7 +59,7 @@ const Singleblog = () => {
                         {elementWithId.content3}
                     </h3>
 
-                    <VideoPlayer videoUrl={videoUrl}/>
+                    <VideoPlayer videoId={elementWithId.videoId}/>
 
                     <h3 className='text-xl font-bold text-gray-800 mb-6 '>
                         {elementWithId.content4}
