@@ -1,6 +1,6 @@
 import React from 'react'
 import { useLoaderData, useParams } from 'react-router-dom'
-import { FaUser ,FaClock} from "react-icons/fa6"
+import { FaUser, FaClock } from "react-icons/fa6"
 import SideBar from '../Componentss/SideBar'
 import VideoPlayer from '../Componentss/VideoPlayer'
 
@@ -17,7 +17,7 @@ const Singleblog = () => {
     console.log(elementWithId.videoSrc);
     // console.log("this is blog id",blogID)
 
-    
+
 
     return (
         <div>
@@ -62,7 +62,7 @@ const Singleblog = () => {
                     {/* youtube video embed */}
 
                     <iframe className='mb-6' width="560" height="315" src={elementWithId.videoSrc} title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-                    
+
 
                     <h3 className='text-xl font-bold text-gray-800 mb-6 '>
                         {elementWithId.content4}
@@ -70,22 +70,24 @@ const Singleblog = () => {
 
                     {/* amazon link */}
 
-                    <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=lappeed2004-21&language=en_IN&marketplace=amazon&region=IN&placement=B09G9HD6PD&asins=B09G9HD6PD&linkId=22616b8137595a4baf2e54bc4709e25b&show_border=true&link_opens_in_new_window=true"></iframe>
-
+                    <a href="https://www.amazon.in/Apple-iPhone-13-128GB-Midnight/dp/B09G9HD6PD?crid=2VHZNRL0VO96U&keywords=iphone+in+20000&qid=1700833521&sprefix=iphone+in+20%2Caps%2C483&sr=8-1&linkCode=li2&tag=lappeed2004-21&linkId=66b99e4c37e71edc51c891aa7e337b9d&language=en_IN&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09G9HD6PD&Format=_SL160_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=lappeed2004-21&language=en_IN" /></a>
                     
+                    <img src="https://ir-in.amazon-adsystem.com/e/ir?t=lappeed2004-21&language=en_IN&l=li2&o=31&a=B09G9HD6PD" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+
 
                     <h3 className='text-xl font-bold text-gray-800 mb-6 '>
                         {elementWithId.content5}
                     </h3>
 
-                    
 
 
-                    
+
+
                 </div>
 
                 <div className='lg:w-1/2'>
-                    <SideBar/>
+                    <SideBar />
                 </div>
             </div>
 
