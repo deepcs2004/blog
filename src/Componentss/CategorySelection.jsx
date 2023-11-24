@@ -2,7 +2,7 @@ import React from 'react'
 
 function CategorySelection({ onSelectCategory, activeCategory }) {
 
-    const categories = ["Startups", "Security", "AI", "Apps", "Tech"];
+    const categories = ["Startups", "Security", "AI", "Apps", "Tech", "Offer", "Trending"];
 
 
 
