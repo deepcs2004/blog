@@ -41,11 +41,11 @@ const Singleblog = () => {
                     <p className='mb-3 text-gray-600'><FaClock className='inline-flex items-center mr-2' />{elementWithId.reading_time}</p>
 
 
-                    <h3 className='text-xl text-gray-500 mb-6'>
+                    <h3 className='text-xl font-bold text-gray-800 mb-6'>
                         {elementWithId.content1}
                     </h3>
 
-                    <h3 className='text-xl text-gray-500 mb-6'>
+                    <h3 className='text-xl font-bold text-gray-800 mb-6'>
                         {elementWithId.content2}
                     </h3>
 
@@ -53,15 +53,15 @@ const Singleblog = () => {
                         <img src={elementWithId.image2} alt="img" className='w-full mx-auto rounded' />
                     </div>
 
-                    <h3 className='text-xl text-gray-500 mb-6'>
+                    <h3 className='text-xl font-bold text-gray-800 mb-6'>
                         {elementWithId.content3}
                     </h3>
 
-                    <h3 className='text-xl text-gray-500 mb-6'>
+                    <h3 className='text-xl font-bold text-gray-800 mb-6'>
                         {elementWithId.content4}
                     </h3>
 
-                    <h3 className='text-xl text-gray-500 mb-6'>
+                    <h3 className='text-xl font-bold text-gray-800 mb-6'>
                         {elementWithId.content5}
                     </h3>
 
