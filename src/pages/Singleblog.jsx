@@ -59,6 +59,8 @@ const Singleblog = () => {
                         {elementWithId.content3}
                     </h3>
 
+                    {/* youtube video embed */}
+
                     <iframe className='mb-6' width="560" height="315" src={elementWithId.videoSrc} title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                     
 
@@ -66,7 +68,11 @@ const Singleblog = () => {
                         {elementWithId.content4}
                     </h3>
 
+                    {/* amazon link */}
+
                     <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=lappeed2004-21&language=en_IN&marketplace=amazon&region=IN&placement=B09G9HD6PD&asins=B09G9HD6PD&linkId=22616b8137595a4baf2e54bc4709e25b&show_border=true&link_opens_in_new_window=true"></iframe>
+
+                    
 
                     <h3 className='text-xl font-bold text-gray-800 mb-6 '>
                         {elementWithId.content5}
