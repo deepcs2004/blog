@@ -68,13 +68,7 @@ const Singleblog = () => {
                         {elementWithId.content4}
                     </h3>
 
-                    {/* amazon link */}
-
-                    <a href="https://www.amazon.in/Apple-iPhone-13-128GB-Midnight/dp/B09G9HD6PD?crid=2VHZNRL0VO96U&keywords=iphone+in+20000&qid=1700833521&sprefix=iphone+in+20%2Caps%2C483&sr=8-1&linkCode=li2&tag=lappeed2004-21&linkId=66b99e4c37e71edc51c891aa7e337b9d&language=en_IN&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09G9HD6PD&Format=_SL160_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=lappeed2004-21&language=en_IN" /></a>
                     
-                    <img src="https://ir-in.amazon-adsystem.com/e/ir?t=lappeed2004-21&language=en_IN&l=li2&o=31&a=B09G9HD6PD" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-
 
                     <h3 className='text-xl font-bold text-gray-800 mb-6 '>
                         {elementWithId.content5}
