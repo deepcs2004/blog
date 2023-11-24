@@ -45,7 +45,7 @@ const Singleblog = () => {
                         {elementWithId.content1}
                     </h3>
 
-                    <h3 className='text-lg text-gray-500 mb-6'>
+                    <h3 className='text-xl text-gray-500 mb-6'>
                         {elementWithId.content2}
                     </h3>
 
@@ -53,15 +53,15 @@ const Singleblog = () => {
                         <img src={elementWithId.image2} alt="img" className='w-full mx-auto rounded' />
                     </div>
 
-                    <h3 className='text-lg text-gray-500 mb-6'>
+                    <h3 className='text-xl text-gray-500 mb-6'>
                         {elementWithId.content3}
                     </h3>
 
-                    <h3 className='text-lg text-gray-500 mb-6'>
+                    <h3 className='text-xl text-gray-500 mb-6'>
                         {elementWithId.content4}
                     </h3>
 
-                    <h3 className='text-lg text-gray-500 mb-6'>
+                    <h3 className='text-xl text-gray-500 mb-6'>
                         {elementWithId.content5}
                     </h3>
 
