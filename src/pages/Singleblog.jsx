@@ -59,7 +59,7 @@ const Singleblog = () => {
                         {elementWithId.content3}
                     </h3>
 
-                    <iframe className='mb-6' width="560" height="315" src="https://www.youtube.com/embed/ieueXAWLTgA?si=oxkJ5P0urD9PTSYu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    <iframe className='mb-6' width="560" height="315" src={elementWithId.videoSrc} title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                     
 
                     <h3 className='text-xl font-bold text-gray-800 mb-6 '>
