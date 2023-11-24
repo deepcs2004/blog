@@ -2,6 +2,7 @@ import React from 'react'
 import { useLoaderData, useParams } from 'react-router-dom'
 import { FaUser ,FaClock} from "react-icons/fa6"
 import SideBar from '../Componentss/SideBar'
+import VideoPlayer from '../Componentss/VideoPlayer'
 
 
 
@@ -56,6 +57,8 @@ const Singleblog = () => {
                     <h3 className='text-xl font-bold text-gray-800 mb-6 '>
                         {elementWithId.content3}
                     </h3>
+
+                    <VideoPlayer videoId={elementWithId.videoId}/>
 
                     <h3 className='text-xl font-bold text-gray-800 mb-6 '>
                         {elementWithId.content4}
