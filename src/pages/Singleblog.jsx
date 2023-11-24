@@ -58,7 +58,7 @@ const Singleblog = () => {
                         {elementWithId.content3}
                     </h3>
 
-                    <VideoPlayer videoId={elementWithId.videoId}/>
+                    <VideoPlayer videoUrl={videoUrl}/>
 
                     <h3 className='text-xl font-bold text-gray-800 mb-6 '>
                         {elementWithId.content4}
