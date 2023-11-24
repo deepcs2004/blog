@@ -3,7 +3,7 @@
         "title":"",
         "image":"",
         "category":"",
-        "author":"",
+        "author":"MoneyView",
         "authorPic":"",
         "published_date":"",
         "reading_time":"",
