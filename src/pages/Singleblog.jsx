@@ -29,9 +29,9 @@ const Singleblog = () => {
             {/* blog details */}
             <div className='max-w-7xl mx-auto my-12 flex flex-col md:flex-row gap-12'>
                 <div className='lg:w-3/4  mx-auto ' style={{ margin: '0 8px' }}>
-                    <div>
+                    {/* <div>
                         <img src={elementWithId.image} alt="img" className='w-full mx-auto rounded' />
-                    </div>
+                    </div> */}
 
                     <h1 className='text-3xl mt-8 font-bold mb-4 text-blue-600 cursor-pointer'>
                         {elementWithId.title}
@@ -55,9 +55,9 @@ const Singleblog = () => {
                         {elementWithId.content2}
                     </h3>
 
-                    <div className='lg:w-3/4 mx-auto '>
+                    {/* <div className='lg:w-3/4 mx-auto '>
                         <img src={elementWithId.image2} alt="img" className='w-full mx-auto rounded' />
-                    </div>
+                    </div> */}
 
                     <h3 className='text-xl font-bold text-gray-800 mb-6 '>
                         {elementWithId.content3}
