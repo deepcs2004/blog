@@ -15,7 +15,7 @@ function BlogPage() {
     useEffect(() => {
 
         async function fetchBlogs() {
-            let url = `https://raw.githubusercontent.com/deepcs2004/blog/main/api/blogData.json?page=${currentPage}&limit=${pagesize}`;
+            let url = `https://script.googleusercontent.com/macros/echo?user_content_key=4w2z0rXNXqtOB7GPm3GCFPkw-G9XOStmOa6sUF5oy_HUZLPhapt3w0SP5E8cUEuzVvZnePBvKtA8Ma2MRja6mDlPgAW7zLk6m5_BxDlH2jW0nuo2oDemN9CCS2h10ox_1xSncGQajx_ryfhECjZEnE3xg_5SnZk5KCu5ivEpb4efWdzsgJsvh-Nv0Yeh5KT61nHPcvbyBJUic5D5xtNOGvUKPEOUjgd97AoLsGfVXgcNjytG121TBtz9Jw9Md8uu&lib=MpkQqPPNJx1Cns-Lr2G_PjPgbD6tHr73D?page=${currentPage}&limit=${pagesize}`;
 
             // filter by category 
             if (selectedCategory) {
