@@ -55,7 +55,7 @@ const Singleblog = () => {
                         {elementWithId.content2}
                     </h3>
 
-                    <div>
+                    <div className='lg:w-3/4 mx-auto '>
                         <img src={elementWithId.image2} alt="img" className='w-full mx-auto rounded' />
                     </div>
 
@@ -65,7 +65,7 @@ const Singleblog = () => {
 
                     {/* youtube video embed */}
 
-                    <iframe className='mb-6' width="560" height="315" src={elementWithId.videoSrc} title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    <iframe className=' lg:max-w-xl lg:h-80 w-full  h-60 mb-6 '  src={elementWithId.videoSrc} title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
                     <h3 className='text-xl font-bold text-gray-800 mb-6 '>
