@@ -33,8 +33,12 @@ const Singleblog = () => {
                         <img src={elementWithId.image} alt="img" className='w-full mx-auto rounded' />
                     </div>
 
-                    <h2 className='text-3xl mt-8 font-bold mb-4 text-blue-600 cursor-pointer'>
+                    <h1 className='text-3xl mt-8 font-bold mb-4 text-blue-600 cursor-pointer'>
                         {elementWithId.title}
+                    </h1>
+
+                    <h2 className='text-2xl mt-4 font-bold mb-4 text-gray-600'>
+                        {elementWithId.SubTitle}
                     </h2>
 
                     <p className='mb-3 text-gray-600'><FaUser className='inline-flex items-center mr-2' />{elementWithId.author} | {elementWithId.published_date}</p>
