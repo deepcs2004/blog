@@ -6,7 +6,7 @@ function BlogCard({ blogs,currentPage,selectedCategory,pagesize }) {
 
     const filteredBlogs = blogs
     .filter((blogs)=>!selectedCategory || blogs.category === selectedCategory)
-    .slice((currentPage -1)*pagesize, currentPage*pagesize);
+    .slice((currentPage -1)*pagesize, currentPage*pagesize)
 
 
 
