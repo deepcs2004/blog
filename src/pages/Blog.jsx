@@ -9,7 +9,7 @@ function Blog() {
         <h2 className='text-3xl lg:text-5xl leading-snug font-bold '>Blog Page</h2>
       </div>
 
-      {/* all blog container  */}
+      {/* all blog containerr  */}
       <div className='max-w-7xl mx-auto'>
         <BlogPage/>
       </div>
